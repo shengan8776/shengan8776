@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm a CS master's student with a passion for building, exploring, and contributing to the world of software development.
+
+- 🌱 I’m currently learning how to create my own Operating System
+- 📫 How to reach me: shengan8776@gmail.com 
+
 <!--
 **shengan8776/shengan8776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
