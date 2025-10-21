@@ -1,19 +1,23 @@
 
-<!--link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /-->
-
-
 ## Hi there 👋
 
 I'm a CS master's student with a passion for building, exploring, and contributing to the world of software development.
 
 - 🌱 I’m currently learning how to build my own operating system
 - 📫 How to reach me: shengan8776@gmail.com
-
+          
 # 🖥️ Technical Skills: 
 <p align="left">
-  <a href="[https://www.w3schools.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+  <a href="[https://www.w3schools.com/java/default.asp" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
   </a>
+  <a href="https://www.w3schools.com/cpp/default.asp" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/python/default.asp" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="C++" width="40" height="40"/>
+  </a>
+
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
